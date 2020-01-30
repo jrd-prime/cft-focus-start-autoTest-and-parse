@@ -11,10 +11,10 @@ Version 1.0
 	
 Что необходимо для запуска:
 	- ПО
-		chrome browser							# Браузер
+		chrome browser							        # Браузер
 		python 3.5+								# Яз. прог
 		selenium								# ПО для связи python-driver
-		chromedriver for selenium				# ПО для связи chrome-driver
+		chromedriver for selenium				                # ПО для связи chrome-driver
 		pytesseract								# ПО для распознавания текста на картинке
 	- Настройки
 		driverPath								# Расположение chromedriver.exe
