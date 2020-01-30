@@ -1,15 +1,3 @@
-avito_search.py
-За прошлый месяц
-1 дек. 2019 г.
-Вы изменили объект
-Текст
-avito_search.py
-За прошлый год
-13 нояб. 2019 г.
-Вы загрузили 1 объект
-Текст
-avito_search.py
-
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.keys import Keys
